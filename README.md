@@ -9,4 +9,4 @@ When they should be looking like this:
 
 `myFile.txt`
 
-This script accomplishes that. Simply download the .exe file, run it and enter the directory in which you want to search for files to rename.
+This script accomplishes just that. Simply download the .exe file, run it and enter the directory in which you want to search for files to rename.
